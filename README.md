@@ -1,12 +1,3 @@
-
-<div align="center">
-  <a href="[/link/to/site](https://www.linkedin.com/in/luis-felipe-ribeiro-511b73289/)">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-</a>    
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
