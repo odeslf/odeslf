@@ -2,6 +2,8 @@
 
 ###
 
+
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -19,7 +21,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeslf&layout=compact)
+
+<br>
+
 <div align="center">
+  
   <img height="500" src="https://i.pinimg.com/originals/48/f1/46/48f146a29a066696f35f9f09773f25d8.gif"  />
 </div>
 
