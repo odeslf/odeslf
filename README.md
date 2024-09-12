@@ -1,12 +1,8 @@
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/48/f1/46/48f146a29a066696f35f9f09773f25d8.gif"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="[/link/to/site](https://www.linkedin.com/in/luis-felipe-ribeiro-511b73289/)">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+</a>    
 </div>
 
 ###
@@ -38,17 +34,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
-
-###
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="350" src="https://i.pinimg.com/originals/48/f1/46/48f146a29a066696f35f9f09773f25d8.gif"  />
 </div>
 
-###
+
+
