@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Felipe from Rio de Janeiro, Brasil<br><br><br>- 📚 I'm currently learning Java and PostgreSQL<br> - 🌱 I'm currently studying System Analysis and Development</p>
+<p align="left">I'm Felipe from Rio de Janeiro, Brasil<br><br><br>- 📚 I'm currently learning Java and PostgreSQL<br> - 🌱 I'm currently studying System Analysis and Development<br> - 🔭 I'm looking for my first job opportunity
 
 ###
 
