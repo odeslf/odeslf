@@ -8,19 +8,13 @@
 
 ###
 
-<p align="left">I'm Felipe from Rio de Janeiro, Brasil<br><br><br>- 📚 I'm currently learning Java and PostgreSQL<br> - 🌱 I'm currently studying System Analysis and Development<br> - 🔭 I'm looking for my first job opportunity
+<p align="left">I'm Felipe from Rio de Janeiro, Brasil<br><br><br>- 📚 I'm currently learning Java<br> - 🌱 I'm currently studying System Analysis and Development<br> - 🔭 I'm looking for my first job opportunity
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeslf&layout=compact)
