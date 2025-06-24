@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Felipe from Rio de Janeiro, Brasil<br><br><br>- 📚 I'm currently learning Java<br> - 🌱 I'm currently studying System Analysis and Development<br> - 🔭 I'm looking for my first job opportunity
+<p align="left">I'm Felipe from Rio de Janeiro, Brasil<br><br><br>- 📚 I'm currently learning Java Spring Boot<br> - 🌱 I'm currently studying System Analysis and Development<br> - 🔭 I'm looking for my first job opportunity
 
 ###
 
